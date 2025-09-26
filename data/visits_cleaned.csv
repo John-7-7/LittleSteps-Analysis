@@ -1,0 +1,601 @@
+visit_id,patient_id,nurse_id,visit_start_time,visit_end_time,service_type,visit_location,nurse_notes,urgent_flag,followup_flag
+182,P017,N08,2024-01-01 00:19:00,2024-01-01 02:48:00,Physical Therapy,West,No notes,0,0
+205,P014,N03,2024-01-01 09:28:00,2024-01-01 10:47:00,Wound Care,East,Nil,0,0
+470,P067,N04,2024-01-01 09:59:00,2024-01-01 10:00:00,Medication Administration,South,Schedule revisit in 2 days,0,1
+209,P018,N10,2024-01-01 12:21:00,2024-01-01 14:08:00,Wound Care,West,No notes,0,0
+400,P077,N08,2024-01-01 17:23:00,2024-01-01 19:56:00,General Check-up,East,Nil,0,0
+168,P099,N05,2024-01-01 17:59:00,2024-01-01 20:56:00,General Check-up,West,No notes,0,0
+12,P100,N17,2024-01-01 19:20:00,2024-01-01 19:58:00,Medication Administration,West,Patient stable.,0,0
+454,P064,N18,2024-01-01 19:56:00,2024-01-01 21:01:00,General Check-up,West,Nil,0,0
+346,P016,N18,2024-01-01 20:46:00,,Wound Care,South,Schedule revisit in 2 days,0,1
+272,P017,N06,2024-01-01 22:36:00,,Wound Care,West,Nil,0,0
+315,P098,N02,2024-01-02 04:42:00,2024-01-02 06:16:00,General Check-up,North,Follow-up urgently required,1,1
+172,P033,N06,2024-01-02 23:21:00,2024-01-03 01:56:00,General Check-up,East,Nil,0,0
+597,P074,N08,2024-01-03 00:59:00,2024-01-03 03:45:00,Wound Care,West,No notes,0,0
+122,P066,N12,2024-01-03 11:19:00,2024-01-03 12:23:00,General Check-up,West,No notes,0,0
+133,P065,N18,2024-01-03 12:55:00,2024-01-03 15:47:00,Wound Care,North,Patient stable.,0,0
+516,P049,N06,2024-01-03 15:05:00,2024-01-03 15:10:00,Medication Administration,East,Urgent attention needed,1,0
+206,P053,N04,2024-01-04 02:22:00,2024-01-04 05:04:00,Wound Care,East,Patient stable.,0,0
+31,P023,N14,2024-01-04 05:47:00,2024-01-04 07:42:00,General Check-up,North,No notes,0,0
+247,P035,N04,2024-01-04 10:51:00,2024-01-04 13:15:00,Wound Care,West,Urgent attention needed,1,0
+145,P031,N16,2024-01-04 11:35:00,2024-01-04 13:44:00,Physical Therapy,South,Follow-up urgently required,1,1
+259,P034,N06,2024-01-04 12:54:00,2024-01-04 15:24:00,General Check-up,South,No notes,0,0
+128,P058,N12,2024-01-04 13:03:00,2024-01-04 14:48:00,Wound Care,South,No notes,0,0
+529,P096,N19,2024-01-04 14:29:00,2024-01-04 16:22:00,Wound Care,West,Patient stable.,0,0
+521,P023,N06,2024-01-04 15:32:00,2024-01-04 16:42:00,Wound Care,East,No notes,0,0
+2,P065,N20,2024-01-04 17:12:00,2024-01-04 19:41:00,General Check-up,North,Patient stable.,0,0
+203,P051,N11,2024-01-04 20:17:00,2024-01-04 22:22:00,Wound Care,East,Nil,0,0
+1,P082,N04,2024-01-04 23:17:00,2024-01-05 00:02:00,Wound Care,East,Patient stable.,0,0
+287,P078,N16,2024-01-05 05:17:00,2024-01-05 08:05:00,Physical Therapy,North,Nil,0,0
+527,P061,N17,2024-01-05 13:33:00,2024-01-05 14:08:00,General Check-up,South,Schedule revisit in 2 days,0,1
+444,P025,N08,2024-01-05 13:48:00,2024-01-05 15:07:00,General Check-up,West,No notes,0,0
+183,P025,N04,2024-01-05 21:26:00,2024-01-05 21:40:00,Wound Care,South,Nil,0,0
+158,P065,N02,2024-01-06 01:08:00,2024-01-06 03:19:00,Physical Therapy,East,No notes,0,0
+243,P034,N07,2024-01-06 01:50:00,2024-01-06 03:13:00,Physical Therapy,East,Nil,0,0
+415,P067,N03,2024-01-06 04:11:00,2024-01-06 05:12:00,General Check-up,South,Patient stable.,0,0
+559,P097,N14,2024-01-06 06:06:00,2024-01-06 06:07:00,Medication Administration,North,Follow-up urgently required,1,1
+258,P039,N20,2024-01-06 06:53:00,2024-01-06 07:40:00,General Check-up,South,Nil,0,0
+249,P002,N08,2024-01-06 15:23:00,2024-01-06 16:11:00,Medication Administration,East,No notes,0,0
+411,P018,N09,2024-01-06 15:45:00,2024-01-06 17:10:00,General Check-up,West,Nil,0,0
+447,P069,N13,2024-01-06 17:24:00,2024-01-06 20:15:00,General Check-up,North,Urgent attention needed,1,0
+23,P075,N20,2024-01-06 19:05:00,2024-01-06 21:44:00,Wound Care,North,No notes,0,0
+474,P014,N13,2024-01-07 02:27:00,2024-01-07 05:09:00,General Check-up,South,Wound will be dressed soon,0,0
+432,P011,N04,2024-01-07 07:39:00,,Wound Care,North,Urgent attention needed,1,0
+153,P019,N04,2024-01-07 09:24:00,2024-01-07 11:21:00,Physical Therapy,South,Nil,0,0
+155,P046,N02,2024-01-07 09:31:00,2024-01-07 12:28:00,Medication Administration,North,Follow-up urgently required,1,1
+104,P097,N14,2024-01-07 09:38:00,2024-01-07 10:14:00,General Check-up,East,Urgent attention needed,1,0
+224,P058,N20,2024-01-07 11:00:00,2024-01-07 11:59:00,General Check-up,East,Urgent attention needed,1,0
+41,P067,N15,2024-01-07 17:15:00,2024-01-07 17:56:00,General Check-up,South,Urgent attention needed,1,0
+19,P071,N04,2024-01-07 20:34:00,2024-01-07 21:07:00,General Check-up,East,Nil,0,0
+167,P031,N08,2024-01-07 21:57:00,2024-01-08 00:50:00,Wound Care,East,No notes,0,0
+586,P063,N01,2024-01-08 02:20:00,2024-01-08 02:46:00,Physical Therapy,South,Follow-up urgently required,1,1
+459,P027,N20,2024-01-08 03:36:00,2024-01-08 06:27:00,Wound Care,West,Nil,0,0
+524,P089,N19,2024-01-08 08:08:00,2024-01-08 10:17:00,Physical Therapy,South,No notes,0,0
+22,P068,N06,2024-01-08 16:05:00,2024-01-08 16:32:00,General Check-up,East,Follow-up urgently required,1,1
+567,P014,N06,2024-01-09 11:12:00,2024-01-09 13:54:00,Physical Therapy,South,No notes,0,0
+180,P070,N02,2024-01-09 15:02:00,2024-01-09 15:58:00,Physical Therapy,South,Nil,0,0
+238,P018,N05,2024-01-09 16:36:00,2024-01-09 16:41:00,General Check-up,East,Nil,0,0
+52,P055,N12,2024-01-09 16:41:00,2024-01-09 18:38:00,Wound Care,East,No notes,0,0
+135,P024,N05,2024-01-09 22:49:00,2024-01-09 23:08:00,Medication Administration,West,Patient stable.,0,0
+66,P035,N05,2024-01-10 01:10:00,2024-01-10 03:52:00,Medication Administration,West,Follow-up urgently required,1,1
+189,P078,N02,2024-01-10 06:51:00,2024-01-10 09:24:00,General Check-up,South,Wound will be dressed soon,0,0
+201,P019,N13,2024-01-10 09:10:00,2024-01-10 11:45:00,Physical Therapy,South,Nil,0,0
+213,P055,N13,2024-01-10 14:38:00,2024-01-10 16:30:00,Physical Therapy,North,No notes,0,0
+345,P033,N18,2024-01-10 18:52:00,2024-01-10 20:08:00,General Check-up,East,Nil,0,0
+65,P090,N15,2024-01-10 21:14:00,2024-01-11 00:04:00,General Check-up,East,Follow-up urgently required,1,1
+29,P002,N04,2024-01-10 22:57:00,2024-01-10 23:16:00,Physical Therapy,East,No notes,0,0
+392,P100,N15,2024-01-11 12:39:00,2024-01-11 15:30:00,Physical Therapy,South,Nil,0,0
+475,P098,N18,2024-01-11 14:36:00,2024-01-11 16:45:00,Medication Administration,West,Urgent attention needed,1,0
+225,P063,N06,2024-01-11 18:01:00,2024-01-11 19:07:00,Medication Administration,West,Schedule revisit in 2 days,0,1
+181,P049,N13,2024-01-11 21:42:00,2024-01-11 22:26:00,Wound Care,South,No notes,0,0
+9,P066,N16,2024-01-12 01:55:00,2024-01-12 04:45:00,Physical Therapy,South,Nil,0,0
+430,P042,N19,2024-01-12 03:42:00,2024-01-12 05:25:00,Wound Care,South,Nil,0,0
+592,P033,N10,2024-01-12 07:19:00,2024-01-12 08:10:00,Wound Care,East,Patient stable.,0,0
+54,P042,N08,2024-01-12 08:56:00,2024-01-12 11:04:00,Physical Therapy,South,Patient stable.,0,0
+322,P074,N15,2024-01-12 15:28:00,2024-01-12 17:45:00,Medication Administration,South,Nil,0,0
+169,P037,N02,2024-01-12 20:36:00,2024-01-12 20:55:00,Physical Therapy,East,No notes,0,0
+286,P076,N19,2024-01-13 03:36:00,2024-01-13 04:59:00,Wound Care,East,Wound will be dressed soon,0,0
+239,P028,N03,2024-01-13 04:48:00,2024-01-13 06:36:00,Physical Therapy,South,No notes,0,0
+406,P026,N15,2024-01-13 16:42:00,2024-01-13 18:53:00,Medication Administration,South,No notes,0,0
+94,P031,N12,2024-01-13 21:23:00,2024-01-14 00:18:00,Physical Therapy,North,No notes,0,0
+101,P078,N14,2024-01-13 22:07:00,2024-01-14 01:03:00,General Check-up,East,Urgent attention needed,1,0
+390,P007,N13,2024-01-13 22:10:00,2024-01-14 08:10:00,Wound Care,West,No notes,0,0
+578,P013,N16,2024-01-13 22:43:00,2024-01-14 01:00:00,Wound Care,East,Nil,0,0
+388,P074,N08,2024-01-13 23:17:00,2024-01-14 01:49:00,Physical Therapy,West,No notes,0,0
+103,P012,N14,2024-01-13 23:47:00,2024-01-14 00:30:00,Wound Care,South,Nil,0,0
+435,P085,N12,2024-01-14 00:18:00,2024-01-14 03:14:00,Physical Therapy,South,No notes,0,0
+505,P092,N09,2024-01-14 01:04:00,2024-01-14 11:04:00,Medication Administration,West,No notes,0,0
+214,P077,N03,2024-01-14 07:42:00,2024-01-14 08:34:00,Medication Administration,East,No notes,0,0
+326,P096,N14,2024-01-14 08:39:00,2024-01-14 09:19:00,Physical Therapy,West,Urgent attention needed,1,0
+34,P034,N02,2024-01-14 19:27:00,2024-01-14 20:57:00,Wound Care,East,Nil,0,0
+334,P046,N15,2024-01-14 19:55:00,2024-01-14 22:28:00,Physical Therapy,West,Schedule revisit in 2 days,0,1
+359,P006,N11,2024-01-14 22:33:00,2024-01-14 23:53:00,Medication Administration,East,Nil,0,0
+472,P021,N09,2024-01-15 00:39:00,2024-01-15 01:15:00,Wound Care,South,Wound will be dressed soon,0,0
+92,P039,N16,2024-01-15 03:15:00,2024-01-15 03:59:00,Wound Care,East,Nil,0,0
+105,P072,N12,2024-01-15 08:36:00,2024-01-15 10:35:00,Medication Administration,North,Patient stable.,0,0
+573,P050,N16,2024-01-15 18:43:00,2024-01-15 21:14:00,General Check-up,West,Schedule revisit in 2 days,0,1
+587,P018,N08,2024-01-15 18:47:00,2024-01-15 19:27:00,Medication Administration,West,Follow-up urgently required,1,1
+541,P069,N10,2024-01-16 00:25:00,2024-01-16 01:12:00,Wound Care,East,Patient stable.,0,0
+246,P040,N06,2024-01-16 00:45:00,2024-01-16 00:57:00,Wound Care,North,No notes,0,0
+143,P063,N07,2024-01-16 04:54:00,2024-01-16 04:59:00,General Check-up,South,No notes,0,0
+441,P072,N18,2024-01-16 05:20:00,2024-01-16 06:07:00,Wound Care,East,Nil,0,0
+599,P059,N16,2024-01-16 07:45:00,2024-01-16 09:03:00,General Check-up,East,No notes,0,0
+407,P071,N17,2024-01-16 08:30:00,2024-01-16 09:30:00,Medication Administration,West,Follow-up urgently required,1,1
+564,P098,N11,2024-01-16 14:07:00,2024-01-16 16:23:00,Medication Administration,North,Follow-up urgently required,1,1
+550,P082,N16,2024-01-16 20:42:00,2024-01-16 22:38:00,General Check-up,North,Follow-up urgently required,1,1
+58,P033,N08,2024-01-16 23:12:00,2024-01-17 01:39:00,Physical Therapy,West,No notes,0,0
+284,P028,N07,2024-01-17 01:27:00,2024-01-18 01:27:00,Physical Therapy,North,No notes,0,0
+261,P083,N15,2024-01-17 02:57:00,2024-01-17 04:31:00,General Check-up,North,No notes,0,0
+260,P100,N08,2024-01-17 06:52:00,2024-01-17 09:43:00,Wound Care,North,Follow-up urgently required,1,1
+269,P079,N07,2024-01-17 10:45:00,2024-01-17 12:17:00,Physical Therapy,East,Follow-up urgently required,1,1
+528,P053,N07,2024-01-17 11:18:00,,Medication Administration,East,Urgent attention needed,1,0
+493,P036,N09,2024-01-17 19:17:00,,Wound Care,East,Nil,0,0
+121,P040,N13,2024-01-17 19:45:00,2024-01-17 21:14:00,Wound Care,East,Schedule revisit in 2 days,0,1
+24,P034,N13,2024-01-17 21:41:00,2024-01-17 23:11:00,Wound Care,North,Urgent attention needed,1,0
+75,P077,N17,2024-01-18 02:17:00,2024-01-18 04:13:00,Medication Administration,North,Wound will be dressed soon,0,0
+330,P038,N15,2024-01-18 04:26:00,2024-01-18 06:47:00,Wound Care,West,No notes,0,0
+485,P023,N16,2024-01-18 06:35:00,2024-01-18 08:17:00,Physical Therapy,North,No notes,0,0
+402,P009,N06,2024-01-18 09:07:00,2024-01-18 11:55:00,General Check-up,West,No notes,0,0
+210,P084,N20,2024-01-18 09:20:00,2024-01-18 10:21:00,Physical Therapy,East,No notes,0,0
+361,P001,N17,2024-01-18 14:10:00,2024-01-18 16:31:00,General Check-up,East,No notes,0,0
+47,P011,N14,2024-01-18 14:11:00,2024-01-19 14:11:00,General Check-up,South,No notes,0,0
+557,P040,N12,2024-01-18 14:56:00,2024-01-18 17:19:00,Wound Care,East,Wound will be dressed soon,0,0
+429,P100,N05,2024-01-18 15:35:00,2024-01-18 17:26:00,General Check-up,West,No notes,0,0
+547,P055,N14,2024-01-18 18:38:00,2024-01-18 18:43:00,Wound Care,South,Nil,0,0
+363,P076,N06,2024-01-18 20:32:00,2024-01-18 20:37:00,Medication Administration,East,Schedule revisit in 2 days,0,1
+192,P073,N08,2024-01-19 00:16:00,2024-01-19 02:55:00,Physical Therapy,North,No notes,0,0
+129,P092,N11,2024-01-19 04:02:00,2024-01-19 06:12:00,Physical Therapy,West,Urgent attention needed,1,0
+303,P073,N15,2024-01-19 10:55:00,2024-01-19 11:25:00,Physical Therapy,South,Patient stable.,0,0
+569,P066,N09,2024-01-19 14:06:00,2024-01-19 16:21:00,Physical Therapy,North,Follow-up urgently required,1,1
+489,P062,N03,2024-01-19 23:46:00,2024-01-20 01:07:00,Wound Care,South,No notes,0,0
+279,P071,N16,2024-01-20 01:23:00,2024-01-20 01:24:00,General Check-up,West,Follow-up urgently required,1,1
+118,P061,N17,2024-01-20 01:28:00,2024-01-20 03:05:00,Wound Care,East,Patient stable.,0,0
+442,P082,N09,2024-01-20 06:06:00,2024-01-20 06:22:00,Medication Administration,West,Nil,0,0
+21,P072,N16,2024-01-20 06:18:00,2024-01-20 06:42:00,Medication Administration,South,Patient stable.,0,0
+466,P046,N03,2024-01-20 08:53:00,2024-01-21 08:53:00,Physical Therapy,East,No notes,0,0
+216,P076,N17,2024-01-20 11:01:00,2024-01-20 12:26:00,Wound Care,South,No notes,0,0
+76,P075,N16,2024-01-20 14:34:00,2024-01-20 16:09:00,Physical Therapy,West,No notes,0,0
+320,P083,N13,2024-01-20 17:57:00,,Physical Therapy,West,Urgent attention needed,1,0
+62,P007,N05,2024-01-20 18:19:00,2024-01-20 18:24:00,Physical Therapy,West,Schedule revisit in 2 days,0,1
+357,P018,N15,2024-01-21 05:36:00,2024-01-21 08:34:00,Physical Therapy,West,No notes,0,0
+393,P010,N03,2024-01-21 10:14:00,2024-01-21 13:11:00,Medication Administration,East,Wound will be dressed soon,0,0
+234,P003,N04,2024-01-21 14:29:00,2024-01-22 14:29:00,Physical Therapy,North,No notes,0,0
+434,P006,N09,2024-01-22 01:18:00,2024-01-22 04:06:00,General Check-up,North,Follow-up urgently required,1,1
+535,P010,N04,2024-01-22 08:07:00,2024-01-22 10:24:00,General Check-up,North,Wound will be dressed soon,0,0
+20,P052,N02,2024-01-22 12:00:00,2024-01-22 13:17:00,General Check-up,North,Nil,0,0
+448,P037,N15,2024-01-22 13:18:00,2024-01-22 13:41:00,Physical Therapy,West,Urgent attention needed,1,0
+525,P082,N20,2024-01-22 18:35:00,2024-01-22 19:07:00,General Check-up,West,Nil,0,0
+50,P033,N12,2024-01-22 19:38:00,2024-01-22 20:17:00,Physical Therapy,North,Follow-up urgently required,1,1
+566,P061,N12,2024-01-23 00:43:00,2024-01-23 01:19:00,Wound Care,South,No notes,0,0
+468,P068,N10,2024-01-23 03:23:00,2024-01-23 04:24:00,General Check-up,North,Urgent attention needed,1,0
+197,P090,N14,2024-01-23 03:58:00,2024-01-23 04:03:00,Medication Administration,South,Wound will be dressed soon,0,0
+267,P046,N06,2024-01-23 07:37:00,2024-01-23 09:18:00,Medication Administration,South,Nil,0,0
+570,P064,N01,2024-01-23 12:38:00,2024-01-23 13:27:00,Wound Care,South,Schedule revisit in 2 days,0,1
+389,P061,N01,2024-01-23 13:31:00,2024-01-23 16:22:00,Wound Care,West,Wound will be dressed soon,0,0
+115,P098,N03,2024-01-23 20:31:00,2024-01-23 23:05:00,General Check-up,South,No notes,0,0
+596,P018,N09,2024-01-23 21:37:00,2024-01-23 22:59:00,Physical Therapy,South,No notes,0,0
+271,P084,N11,2024-01-23 22:35:00,2024-01-24 01:22:00,General Check-up,East,Nil,0,0
+337,P010,N06,2024-01-23 23:32:00,2024-01-23 23:52:00,Medication Administration,East,No notes,0,0
+61,P057,N11,2024-01-24 01:16:00,2024-01-24 03:28:00,Wound Care,East,Urgent attention needed,1,0
+403,P069,N01,2024-01-24 03:18:00,2024-01-24 05:20:00,General Check-up,South,No notes,0,0
+300,P085,N18,2024-01-24 09:06:00,2024-01-24 10:22:00,Physical Therapy,South,Follow-up urgently required,1,1
+281,P049,N12,2024-01-24 14:02:00,2024-01-24 16:11:00,Medication Administration,North,No notes,0,0
+563,P090,N19,2024-01-24 14:43:00,2024-01-24 15:39:00,Physical Therapy,East,No notes,0,0
+142,P015,N01,2024-01-24 15:33:00,2024-01-24 18:06:00,Medication Administration,West,No notes,0,0
+582,P091,N17,2024-01-24 18:31:00,2024-01-24 20:40:00,Physical Therapy,North,Schedule revisit in 2 days,0,1
+350,P025,N04,2024-01-24 21:51:00,2024-01-24 22:14:00,General Check-up,South,Wound will be dressed soon,0,0
+170,P051,N16,2024-01-24 23:55:00,,Wound Care,South,Wound will be dressed soon,0,0
+18,P014,N08,2024-01-25 06:34:00,2024-01-25 08:32:00,General Check-up,West,Follow-up urgently required,1,1
+405,P061,N06,2024-01-25 08:52:00,2024-01-25 09:05:00,General Check-up,East,Urgent attention needed,1,0
+414,P069,N13,2024-01-25 16:43:00,2024-01-25 19:14:00,Medication Administration,South,Nil,0,0
+333,P007,N02,2024-01-26 08:48:00,2024-01-26 10:11:00,Physical Therapy,North,Wound will be dressed soon,0,0
+436,P012,N06,2024-01-26 16:29:00,,Medication Administration,South,Urgent attention needed,1,0
+72,P098,N02,2024-01-27 08:35:00,2024-01-27 09:58:00,General Check-up,South,Patient stable.,0,0
+188,P032,N09,2024-01-27 10:41:00,2024-01-28 10:41:00,Wound Care,West,Patient stable.,0,0
+371,P088,N13,2024-01-27 13:35:00,2024-01-27 15:48:00,General Check-up,North,Wound will be dressed soon,0,0
+96,P098,N18,2024-01-27 18:13:00,2024-01-27 19:22:00,Physical Therapy,North,Wound will be dressed soon,0,0
+30,P006,N12,2024-01-27 21:15:00,2024-01-27 22:55:00,Physical Therapy,East,No notes,0,0
+130,P003,N09,2024-01-28 04:35:00,2024-01-28 07:20:00,Wound Care,North,No notes,0,0
+236,P013,N01,2024-01-28 15:04:00,2024-01-28 16:11:00,General Check-up,North,Patient stable.,0,0
+418,P039,N03,2024-01-28 16:06:00,2024-01-28 17:15:00,General Check-up,West,Schedule revisit in 2 days,0,1
+523,P056,N05,2024-01-28 19:29:00,2024-01-28 21:14:00,General Check-up,South,Wound will be dressed soon,0,0
+507,P009,N18,2024-01-29 00:24:00,2024-01-29 02:37:00,Wound Care,South,Wound will be dressed soon,0,0
+39,P087,N10,2024-01-29 06:09:00,2024-01-29 06:14:00,Wound Care,West,Nil,0,0
+32,P005,N16,2024-01-29 06:52:00,2024-01-29 08:31:00,General Check-up,West,Patient stable.,0,0
+295,P077,N01,2024-01-29 08:38:00,2024-01-29 10:06:00,Medication Administration,East,Nil,0,0
+294,P074,N07,2024-01-29 20:14:00,2024-01-29 21:32:00,Medication Administration,North,Urgent attention needed,1,0
+7,P099,N02,2024-01-30 01:51:00,2024-01-30 03:09:00,Wound Care,West,Urgent attention needed,1,0
+5,P038,N03,2024-01-30 03:24:00,2024-01-30 06:16:00,Physical Therapy,South,No notes,0,0
+289,P088,N04,2024-01-30 04:19:00,2024-01-30 06:22:00,Wound Care,North,Nil,0,0
+266,P046,N19,2024-01-30 05:06:00,2024-01-30 06:17:00,Medication Administration,West,Nil,0,0
+308,P052,N01,2024-01-30 07:46:00,2024-01-30 08:50:00,Physical Therapy,South,No notes,0,0
+396,P050,N10,2024-01-30 07:47:00,2024-01-30 10:37:00,Physical Therapy,North,Patient stable.,0,0
+125,P097,N15,2024-01-30 17:15:00,2024-01-30 19:25:00,General Check-up,South,Nil,0,0
+15,P076,N18,2024-01-30 18:14:00,2024-01-30 18:15:00,Medication Administration,South,Follow-up urgently required,1,1
+461,P024,N20,2024-01-30 22:18:00,2024-01-30 22:28:00,General Check-up,South,No notes,0,0
+484,P037,N01,2024-01-31 13:44:00,2024-01-31 16:34:00,Physical Therapy,East,Nil,0,0
+576,P032,N08,2024-01-31 20:19:00,2024-01-31 20:45:00,Wound Care,South,No notes,0,0
+341,P079,N20,2024-02-01 01:43:00,2024-02-01 03:30:00,Wound Care,East,Wound will be dressed soon,0,0
+473,P037,N19,2024-02-01 05:04:00,2024-02-01 06:40:00,Medication Administration,East,Patient stable.,0,0
+409,P099,N03,2024-02-01 05:31:00,2024-02-01 15:31:00,Medication Administration,North,No notes,0,0
+49,P097,N01,2024-02-01 06:53:00,2024-02-01 06:58:00,General Check-up,South,Nil,0,0
+526,P002,N14,2024-02-01 07:20:00,2024-02-01 08:26:00,Physical Therapy,North,Nil,0,0
+211,P063,N19,2024-02-01 10:24:00,2024-02-01 12:14:00,General Check-up,East,Schedule revisit in 2 days,0,1
+252,P039,N20,2024-02-01 14:23:00,2024-02-01 16:39:00,General Check-up,West,No notes,0,0
+218,P014,N06,2024-02-01 16:11:00,2024-02-01 17:45:00,General Check-up,West,Nil,0,0
+207,P011,N18,2024-02-01 18:33:00,2024-02-01 20:20:00,Medication Administration,North,Wound will be dressed soon,0,0
+264,P026,N17,2024-02-01 20:51:00,2024-02-01 21:05:00,Wound Care,West,Schedule revisit in 2 days,0,1
+184,P091,N02,2024-02-01 23:02:00,2024-02-02 00:11:00,Medication Administration,East,Schedule revisit in 2 days,0,1
+235,P012,N12,2024-02-02 02:23:00,2024-02-02 05:19:00,Physical Therapy,North,No notes,0,0
+48,P097,N14,2024-02-02 02:30:00,2024-02-02 02:31:00,Wound Care,West,Follow-up urgently required,1,1
+97,P017,N18,2024-02-02 05:07:00,2024-02-02 05:23:00,Wound Care,West,Nil,0,0
+502,P015,N06,2024-02-02 09:29:00,2024-02-02 09:58:00,Medication Administration,East,No notes,0,0
+450,P059,N03,2024-02-02 10:44:00,2024-02-02 11:35:00,Wound Care,South,Follow-up urgently required,1,1
+589,P057,N14,2024-02-02 18:03:00,2024-02-02 19:48:00,Wound Care,South,Schedule revisit in 2 days,0,1
+8,P059,N05,2024-02-03 04:15:00,2024-02-03 06:42:00,Physical Therapy,East,No notes,0,0
+382,P095,N08,2024-02-03 06:14:00,2024-02-03 07:27:00,Wound Care,East,Follow-up urgently required,1,1
+538,P040,N06,2024-02-03 07:30:00,2024-02-03 08:53:00,Medication Administration,East,No notes,0,0
+215,P002,N04,2024-02-03 07:32:00,2024-02-03 10:04:00,General Check-up,West,No notes,0,0
+540,P017,N15,2024-02-03 11:11:00,2024-02-03 11:29:00,Wound Care,East,No notes,0,0
+358,P030,N03,2024-02-03 11:14:00,2024-02-03 11:19:00,Wound Care,East,Urgent attention needed,1,0
+191,P046,N10,2024-02-03 11:32:00,2024-02-03 13:41:00,General Check-up,South,No notes,0,0
+150,P099,N19,2024-02-03 20:13:00,2024-02-03 22:09:00,Medication Administration,West,Schedule revisit in 2 days,0,1
+250,P093,N11,2024-02-04 02:36:00,2024-02-04 04:54:00,Medication Administration,East,No notes,0,0
+506,P005,N13,2024-02-04 04:44:00,2024-02-04 06:34:00,General Check-up,West,Nil,0,0
+27,P071,N05,2024-02-04 09:38:00,2024-02-04 11:15:00,Medication Administration,West,Wound will be dressed soon,0,0
+488,P092,N17,2024-02-04 13:59:00,,Medication Administration,West,No notes,0,0
+108,P087,N03,2024-02-04 14:42:00,2024-02-04 17:27:00,Medication Administration,West,Schedule revisit in 2 days,0,1
+554,P041,N10,2024-02-04 21:44:00,2024-02-04 22:18:00,Wound Care,East,Patient stable.,0,0
+28,P012,N14,2024-02-05 01:00:00,2024-02-05 01:43:00,Medication Administration,East,Urgent attention needed,1,0
+533,P065,N14,2024-02-05 01:04:00,2024-02-05 03:09:00,Wound Care,West,Schedule revisit in 2 days,0,1
+519,P081,N07,2024-02-05 01:12:00,2024-02-05 02:00:00,General Check-up,West,No notes,0,0
+244,P079,N05,2024-02-05 02:19:00,2024-02-05 02:24:00,Physical Therapy,South,Nil,0,0
+3,P055,N11,2024-02-05 04:13:00,2024-02-05 05:49:00,Physical Therapy,South,No notes,0,0
+438,P004,N18,2024-02-05 07:09:00,2024-02-05 08:59:00,Wound Care,East,Schedule revisit in 2 days,0,1
+353,P092,N14,2024-02-05 11:08:00,2024-02-05 12:42:00,General Check-up,West,No notes,0,0
+33,P036,N03,2024-02-05 11:41:00,2024-02-05 14:08:00,Medication Administration,South,Wound will be dressed soon,0,0
+376,P021,N03,2024-02-05 12:22:00,2024-02-05 14:15:00,Medication Administration,South,Follow-up urgently required,1,1
+116,P057,N10,2024-02-05 18:03:00,2024-02-05 18:31:00,General Check-up,North,Patient stable.,0,0
+408,P002,N06,2024-02-05 18:07:00,,Medication Administration,West,Nil,0,0
+412,P094,N15,2024-02-05 19:58:00,2024-02-05 20:49:00,Physical Therapy,West,Wound will be dressed soon,0,0
+165,P093,N09,2024-02-06 03:36:00,2024-02-06 05:23:00,Physical Therapy,South,No notes,0,0
+562,P092,N07,2024-02-06 05:57:00,2024-02-06 06:08:00,Wound Care,West,Schedule revisit in 2 days,0,1
+375,P085,N17,2024-02-06 06:02:00,2024-02-06 08:22:00,General Check-up,East,Patient stable.,0,0
+520,P007,N12,2024-02-06 06:27:00,2024-02-06 09:14:00,General Check-up,North,Follow-up urgently required,1,1
+43,P057,N03,2024-02-06 07:17:00,2024-02-06 09:45:00,Physical Therapy,West,Nil,0,0
+120,P087,N13,2024-02-06 08:46:00,2024-02-06 11:30:00,Wound Care,South,Nil,0,0
+356,P099,N19,2024-02-07 04:29:00,2024-02-07 05:02:00,Medication Administration,West,Nil,0,0
+553,P046,N02,2024-02-07 09:33:00,2024-02-07 10:02:00,Physical Therapy,South,Nil,0,0
+144,P071,N18,2024-02-07 09:54:00,2024-02-07 12:47:00,Wound Care,West,Follow-up urgently required,1,1
+138,P024,N18,2024-02-07 10:06:00,2024-02-07 20:06:00,Physical Therapy,East,Urgent attention needed,1,0
+110,P018,N09,2024-02-07 10:07:00,2024-02-08 10:07:00,Physical Therapy,West,Schedule revisit in 2 days,0,1
+229,P042,N10,2024-02-07 18:17:00,2024-02-07 20:38:00,Wound Care,East,Nil,0,0
+348,P051,N18,2024-02-07 20:09:00,2024-02-07 23:04:00,Medication Administration,East,Follow-up urgently required,1,1
+227,P014,N08,2024-02-08 01:28:00,2024-02-08 02:00:00,Wound Care,West,No notes,0,0
+581,P039,N17,2024-02-08 13:42:00,2024-02-08 14:43:00,Medication Administration,West,Schedule revisit in 2 days,0,1
+99,P006,N17,2024-02-08 14:41:00,2024-02-08 15:06:00,Physical Therapy,East,Follow-up urgently required,1,1
+549,P063,N02,2024-02-08 18:19:00,2024-02-08 20:27:00,Medication Administration,East,Wound will be dressed soon,0,0
+159,P051,N20,2024-02-08 18:21:00,2024-02-08 20:41:00,Medication Administration,West,Patient stable.,0,0
+296,P028,N15,2024-02-08 21:33:00,2024-02-08 23:24:00,Medication Administration,South,Schedule revisit in 2 days,0,1
+509,P085,N07,2024-02-08 22:24:00,2024-02-09 01:15:00,General Check-up,South,Urgent attention needed,1,0
+306,P089,N12,2024-02-09 04:06:00,2024-02-09 06:46:00,Wound Care,North,Wound will be dressed soon,0,0
+546,P045,N12,2024-02-09 14:55:00,2024-02-09 16:00:00,General Check-up,East,Urgent attention needed,1,0
+73,P031,N06,2024-02-09 17:00:00,2024-02-09 17:33:00,Wound Care,West,Follow-up urgently required,1,1
+471,P003,N19,2024-02-09 20:57:00,2024-02-09 21:58:00,Medication Administration,South,Urgent attention needed,1,0
+57,P089,N08,2024-02-09 21:37:00,2024-02-10 00:08:00,Physical Therapy,South,No notes,0,0
+245,P084,N03,2024-02-09 22:27:00,2024-02-09 23:38:00,Wound Care,East,Follow-up urgently required,1,1
+160,P054,N19,2024-02-09 23:55:00,2024-02-10 00:11:00,Medication Administration,West,Patient stable.,0,0
+222,P087,N05,2024-02-10 03:15:00,2024-02-10 04:11:00,Physical Therapy,East,Nil,0,0
+242,P002,N12,2024-02-10 04:24:00,2024-02-10 06:59:00,Physical Therapy,West,Follow-up urgently required,1,1
+276,P038,N01,2024-02-10 08:06:00,2024-02-10 08:11:00,Physical Therapy,South,Schedule revisit in 2 days,0,1
+257,P058,N15,2024-02-10 13:07:00,2024-02-10 14:10:00,General Check-up,North,Follow-up urgently required,1,1
+380,P029,N08,2024-02-10 13:22:00,2024-02-10 13:34:00,Medication Administration,West,Wound will be dressed soon,0,0
+185,P094,N19,2024-02-10 18:38:00,2024-02-10 20:10:00,Physical Therapy,West,Nil,0,0
+173,P055,N17,2024-02-11 02:25:00,2024-02-11 03:22:00,General Check-up,South,No notes,0,0
+514,P095,N13,2024-02-11 03:43:00,2024-02-11 04:28:00,General Check-up,North,Nil,0,0
+522,P030,N04,2024-02-11 07:06:00,2024-02-11 09:01:00,Physical Therapy,West,Follow-up urgently required,1,1
+321,P010,N16,2024-02-11 07:21:00,2024-02-11 07:43:00,Physical Therapy,East,No notes,0,0
+265,P073,N17,2024-02-11 12:17:00,2024-02-11 13:48:00,Medication Administration,North,Patient stable.,0,0
+594,P078,N18,2024-02-11 14:44:00,2024-02-11 14:45:00,Physical Therapy,West,No notes,0,0
+481,P099,N13,2024-02-11 15:41:00,2024-02-11 16:14:00,Physical Therapy,North,No notes,0,0
+480,P077,N15,2024-02-11 17:06:00,2024-02-11 18:01:00,Physical Therapy,South,Nil,0,0
+100,P010,N03,2024-02-11 19:09:00,2024-02-12 05:09:00,Wound Care,East,Nil,0,0
+174,P058,N09,2024-02-12 09:37:00,2024-02-12 09:49:00,Wound Care,West,Patient stable.,0,0
+464,P023,N07,2024-02-12 10:59:00,2024-02-12 13:10:00,Physical Therapy,West,No notes,0,0
+301,P040,N14,2024-02-12 11:16:00,2024-02-12 13:24:00,General Check-up,North,Nil,0,0
+462,P053,N02,2024-02-12 11:35:00,,General Check-up,North,Wound will be dressed soon,0,0
+273,P064,N05,2024-02-12 23:04:00,2024-02-13 00:35:00,Wound Care,South,Urgent attention needed,1,0
+89,P062,N10,2024-02-13 03:29:00,2024-02-13 04:15:00,General Check-up,East,Schedule revisit in 2 days,0,1
+379,P099,N08,2024-02-13 14:43:00,2024-02-13 17:23:00,General Check-up,South,Wound will be dressed soon,0,0
+233,P042,N10,2024-02-13 17:36:00,2024-02-13 19:50:00,Medication Administration,North,Follow-up urgently required,1,1
+420,P052,N17,2024-02-13 21:10:00,2024-02-13 23:53:00,Wound Care,South,Schedule revisit in 2 days,0,1
+46,P004,N13,2024-02-13 21:43:00,2024-02-13 22:35:00,Physical Therapy,North,Nil,0,0
+499,P025,N17,2024-02-13 21:44:00,2024-02-13 23:14:00,Medication Administration,South,Patient stable.,0,0
+106,P040,N11,2024-02-14 00:11:00,2024-02-14 02:45:00,Wound Care,East,Patient stable.,0,0
+391,P072,N09,2024-02-14 00:26:00,2024-02-14 03:11:00,Physical Therapy,North,No notes,0,0
+500,P088,N15,2024-02-14 07:46:00,,Wound Care,North,Nil,0,0
+274,P089,N03,2024-02-14 08:50:00,,General Check-up,East,No notes,0,0
+399,P067,N05,2024-02-14 09:30:00,2024-02-14 11:45:00,General Check-up,North,Patient stable.,0,0
+377,P072,N19,2024-02-14 11:52:00,2024-02-14 14:37:00,General Check-up,East,Nil,0,0
+152,P041,N11,2024-02-14 12:08:00,2024-02-14 14:29:00,Wound Care,West,Urgent attention needed,1,0
+426,P099,N11,2024-02-14 13:26:00,2024-02-14 14:06:00,General Check-up,North,Nil,0,0
+536,P017,N16,2024-02-14 13:28:00,2024-02-14 13:43:00,Wound Care,North,No notes,0,0
+166,P092,N03,2024-02-14 14:41:00,2024-02-14 16:53:00,Medication Administration,North,No notes,0,0
+398,P069,N10,2024-02-14 15:34:00,2024-02-14 16:06:00,Wound Care,East,Wound will be dressed soon,0,0
+148,P042,N08,2024-02-14 16:57:00,2024-02-14 17:27:00,Medication Administration,East,Wound will be dressed soon,0,0
+275,P064,N13,2024-02-14 17:24:00,2024-02-14 19:36:00,General Check-up,East,Urgent attention needed,1,0
+368,P062,N13,2024-02-14 18:51:00,2024-02-14 21:28:00,Physical Therapy,North,Urgent attention needed,1,0
+253,P030,N18,2024-02-14 20:53:00,2024-02-14 21:05:00,Medication Administration,East,Wound will be dressed soon,0,0
+437,P021,N01,2024-02-14 21:22:00,2024-02-14 22:49:00,Medication Administration,North,Wound will be dressed soon,0,0
+114,P025,N12,2024-02-14 23:52:00,2024-02-15 00:39:00,Physical Therapy,North,No notes,0,0
+561,P075,N12,2024-02-15 05:54:00,2024-02-15 08:40:00,Wound Care,South,Nil,0,0
+55,P063,N07,2024-02-15 08:21:00,2024-02-15 11:03:00,Medication Administration,North,Schedule revisit in 2 days,0,1
+312,P067,N07,2024-02-15 22:26:00,2024-02-15 22:46:00,General Check-up,West,No notes,0,0
+340,P043,N11,2024-02-16 09:13:00,2024-02-16 12:01:00,Medication Administration,South,No notes,0,0
+476,P079,N09,2024-02-16 12:11:00,2024-02-16 15:11:00,Wound Care,West,Urgent attention needed,1,0
+590,P036,N05,2024-02-16 15:45:00,,Medication Administration,North,No notes,0,0
+508,P083,N03,2024-02-16 17:54:00,2024-02-16 18:24:00,Medication Administration,West,No notes,0,0
+551,P009,N20,2024-02-16 18:30:00,2024-02-16 19:46:00,General Check-up,South,No notes,0,0
+248,P073,N06,2024-02-17 05:16:00,2024-02-17 07:52:00,Wound Care,West,Schedule revisit in 2 days,0,1
+494,P085,N15,2024-02-17 05:16:00,2024-02-17 06:26:00,Medication Administration,South,Follow-up urgently required,1,1
+141,P020,N15,2024-02-17 11:28:00,2024-02-17 14:04:00,Wound Care,East,No notes,0,0
+292,P026,N09,2024-02-17 14:32:00,2024-02-17 15:13:00,General Check-up,South,Urgent attention needed,1,0
+161,P081,N20,2024-02-18 04:52:00,2024-02-18 05:10:00,Wound Care,West,Patient stable.,0,0
+503,P036,N02,2024-02-18 12:21:00,2024-02-18 13:37:00,Medication Administration,East,Urgent attention needed,1,0
+335,P037,N02,2024-02-18 12:26:00,2024-02-18 13:56:00,Medication Administration,North,Wound will be dressed soon,0,0
+572,P058,N11,2024-02-18 14:29:00,2024-02-18 14:34:00,Medication Administration,East,Urgent attention needed,1,0
+45,P098,N19,2024-02-18 15:00:00,2024-02-18 16:26:00,Physical Therapy,West,Urgent attention needed,1,0
+85,P014,N08,2024-02-18 18:22:00,,Physical Therapy,North,Patient stable.,0,0
+77,P031,N19,2024-02-19 07:54:00,2024-02-19 08:15:00,General Check-up,East,Nil,0,0
+137,P052,N15,2024-02-19 10:11:00,2024-02-19 12:28:00,Medication Administration,South,Nil,0,0
+374,P078,N02,2024-02-19 12:39:00,2024-02-19 14:02:00,Medication Administration,East,Urgent attention needed,1,0
+285,P009,N03,2024-02-19 17:25:00,2024-02-19 18:45:00,Medication Administration,East,Follow-up urgently required,1,1
+373,P007,N06,2024-02-19 20:00:00,2024-02-19 20:47:00,Physical Therapy,South,Follow-up urgently required,1,1
+422,P058,N15,2024-02-20 00:46:00,2024-02-20 10:46:00,Physical Therapy,North,Patient stable.,0,0
+219,P085,N14,2024-02-20 00:47:00,2024-02-20 01:47:00,Physical Therapy,East,Patient stable.,0,0
+428,P056,N10,2024-02-20 04:08:00,2024-02-20 06:19:00,Medication Administration,East,Wound will be dressed soon,0,0
+504,P026,N20,2024-02-20 05:41:00,2024-02-20 06:27:00,Physical Therapy,West,Nil,0,0
+51,P074,N13,2024-02-20 22:12:00,2024-02-20 22:17:00,Medication Administration,South,Nil,0,0
+111,P046,N03,2024-02-20 23:02:00,2024-02-21 01:09:00,Wound Care,East,Nil,0,0
+112,P038,N04,2024-02-21 00:20:00,2024-02-21 03:08:00,Wound Care,South,Nil,0,0
+511,P093,N02,2024-02-21 03:13:00,2024-02-21 06:13:00,Physical Therapy,West,Follow-up urgently required,1,1
+483,P079,N17,2024-02-21 04:54:00,2024-02-21 06:38:00,Medication Administration,North,Schedule revisit in 2 days,0,1
+156,P094,N12,2024-02-21 11:02:00,2024-02-21 13:37:00,Wound Care,North,Follow-up urgently required,1,1
+316,P015,N13,2024-02-21 14:17:00,2024-02-21 16:29:00,Physical Therapy,South,No notes,0,0
+496,P022,N15,2024-02-21 15:19:00,2024-02-21 17:45:00,Physical Therapy,West,Wound will be dressed soon,0,0
+195,P098,N01,2024-02-22 04:53:00,2024-02-22 05:20:00,Medication Administration,West,Schedule revisit in 2 days,0,1
+44,P009,N14,2024-02-22 10:34:00,2024-02-22 10:59:00,Physical Therapy,East,Nil,0,0
+555,P100,N16,2024-02-22 10:58:00,2024-02-22 11:34:00,General Check-up,West,Schedule revisit in 2 days,0,1
+370,P089,N11,2024-02-22 11:06:00,2024-02-22 14:02:00,Medication Administration,East,Nil,0,0
+495,P020,N16,2024-02-22 12:15:00,2024-02-22 15:08:00,Wound Care,North,Wound will be dressed soon,0,0
+162,P053,N07,2024-02-22 16:49:00,2024-02-22 18:59:00,Medication Administration,East,Schedule revisit in 2 days,0,1
+79,P093,N05,2024-02-22 20:09:00,2024-02-23 06:09:00,Physical Therapy,South,No notes,0,0
+290,P057,N07,2024-02-22 23:31:00,2024-02-23 01:16:00,Physical Therapy,South,Wound will be dressed soon,0,0
+518,P039,N12,2024-02-23 00:35:00,2024-02-23 01:15:00,Wound Care,South,Schedule revisit in 2 days,0,1
+327,P044,N04,2024-02-23 01:59:00,2024-02-23 04:39:00,General Check-up,West,Nil,0,0
+311,P078,N05,2024-02-23 03:32:00,2024-02-23 04:12:00,Wound Care,West,No notes,0,0
+88,P038,N11,2024-02-23 05:12:00,2024-02-23 07:40:00,Wound Care,North,No notes,0,0
+548,P053,N09,2024-02-23 05:35:00,2024-02-23 08:10:00,Physical Therapy,West,No notes,0,0
+515,P036,N05,2024-02-23 05:44:00,2024-02-23 06:36:00,Medication Administration,East,Follow-up urgently required,1,1
+439,P081,N08,2024-02-23 07:36:00,2024-02-23 09:05:00,Wound Care,West,Schedule revisit in 2 days,0,1
+208,P056,N09,2024-02-23 09:30:00,2024-02-23 11:12:00,General Check-up,West,Nil,0,0
+362,P016,N08,2024-02-23 10:46:00,2024-02-23 12:58:00,Physical Therapy,East,Patient stable.,0,0
+491,P074,N11,2024-02-23 11:51:00,,Medication Administration,North,Patient stable.,0,0
+98,P007,N05,2024-02-23 16:07:00,2024-02-23 18:18:00,Wound Care,South,Urgent attention needed,1,0
+317,P021,N04,2024-02-23 18:30:00,2024-02-23 20:32:00,Physical Therapy,South,Nil,0,0
+102,P059,N13,2024-02-23 23:06:00,2024-02-24 00:36:00,Wound Care,East,Urgent attention needed,1,0
+63,P039,N19,2024-02-24 09:36:00,2024-02-24 12:22:00,Wound Care,West,No notes,0,0
+17,P056,N12,2024-02-24 13:29:00,2024-02-24 13:52:00,Wound Care,North,Nil,0,0
+487,P059,N17,2024-02-24 17:52:00,2024-02-24 19:32:00,Physical Therapy,North,Nil,0,0
+81,P096,N03,2024-02-25 03:48:00,2024-02-25 04:23:00,Medication Administration,North,Patient stable.,0,0
+82,P046,N12,2024-02-25 04:15:00,2024-02-25 06:49:00,Physical Therapy,East,No notes,0,0
+53,P091,N05,2024-02-25 05:46:00,2024-02-25 08:42:00,General Check-up,West,Nil,0,0
+139,P046,N20,2024-02-25 08:40:00,2024-02-25 09:04:00,Physical Therapy,South,Schedule revisit in 2 days,0,1
+479,P089,N19,2024-02-25 13:36:00,2024-02-25 16:05:00,Physical Therapy,South,Nil,0,0
+69,P024,N19,2024-02-25 20:52:00,2024-02-25 21:25:00,Physical Therapy,South,No notes,0,0
+212,P091,N07,2024-02-26 09:53:00,2024-02-26 11:47:00,Physical Therapy,North,No notes,0,0
+84,P021,N03,2024-02-26 11:37:00,2024-02-26 13:35:00,General Check-up,North,No notes,0,0
+231,P054,N13,2024-02-27 02:40:00,2024-02-27 03:13:00,Medication Administration,South,Urgent attention needed,1,0
+497,P002,N10,2024-02-27 12:43:00,2024-02-27 15:08:00,Medication Administration,South,Schedule revisit in 2 days,0,1
+131,P054,N20,2024-02-28 02:07:00,2024-02-28 04:24:00,Medication Administration,West,No notes,0,0
+107,P049,N14,2024-02-28 10:10:00,2024-02-28 11:43:00,Wound Care,North,No notes,0,0
+232,P001,N03,2024-02-28 20:42:00,2024-02-28 21:08:00,Physical Therapy,West,Nil,0,0
+176,P062,N05,2024-02-28 23:38:00,2024-02-29 02:08:00,General Check-up,West,Nil,0,0
+314,P038,N09,2024-02-29 01:06:00,2024-02-29 01:26:00,Wound Care,South,Nil,0,0
+477,P045,N16,2024-02-29 05:18:00,2024-02-29 08:02:00,Wound Care,East,Follow-up urgently required,1,1
+251,P052,N03,2024-02-29 09:49:00,2024-02-29 11:22:00,General Check-up,North,No notes,0,0
+478,P039,N18,2024-02-29 12:37:00,2024-02-29 15:25:00,Physical Therapy,West,Nil,0,0
+465,P069,N11,2024-02-29 13:59:00,2024-02-29 16:22:00,Wound Care,North,No notes,0,0
+397,P042,N16,2024-02-29 17:59:00,2024-02-29 20:02:00,Physical Therapy,West,Nil,0,0
+280,P038,N03,2024-03-01 03:19:00,2024-03-01 05:29:00,Medication Administration,South,Schedule revisit in 2 days,0,1
+187,P024,N18,2024-03-01 07:54:00,2024-03-01 08:40:00,Medication Administration,East,Nil,0,0
+200,P089,N19,2024-03-01 08:02:00,2024-03-01 09:23:00,Medication Administration,East,No notes,0,0
+136,P051,N18,2024-03-01 08:02:00,2024-03-01 09:00:00,Medication Administration,South,Wound will be dressed soon,0,0
+288,P031,N02,2024-03-01 08:57:00,2024-03-01 10:33:00,Medication Administration,North,Wound will be dressed soon,0,0
+283,P074,N08,2024-03-01 09:05:00,2024-03-01 09:23:00,Physical Therapy,South,Urgent attention needed,1,0
+395,P013,N03,2024-03-01 17:03:00,2024-03-02 17:03:00,Wound Care,South,Wound will be dressed soon,0,0
+512,P084,N01,2024-03-01 19:02:00,2024-03-01 21:58:00,Physical Therapy,North,Wound will be dressed soon,0,0
+310,P071,N09,2024-03-01 22:09:00,,Physical Therapy,South,Schedule revisit in 2 days,0,1
+593,P100,N16,2024-03-01 23:26:00,2024-03-02 01:01:00,Wound Care,East,Wound will be dressed soon,0,0
+237,P055,N05,2024-03-02 02:14:00,2024-03-02 02:50:00,Wound Care,North,No notes,0,0
+297,P039,N04,2024-03-02 02:21:00,2024-03-02 05:14:00,Medication Administration,North,Wound will be dressed soon,0,0
+190,P025,N04,2024-03-02 07:44:00,2024-03-02 08:46:00,General Check-up,South,Wound will be dressed soon,0,0
+217,P027,N17,2024-03-02 11:30:00,2024-03-03 11:30:00,Medication Administration,North,Follow-up urgently required,1,1
+318,P094,N05,2024-03-02 15:07:00,,Medication Administration,South,Patient stable.,0,0
+196,P082,N20,2024-03-02 21:31:00,,Medication Administration,North,Patient stable.,0,0
+254,P031,N14,2024-03-03 01:09:00,,General Check-up,East,No notes,0,0
+13,P011,N03,2024-03-03 02:48:00,2024-03-03 03:30:00,General Check-up,East,Wound will be dressed soon,0,0
+384,P074,N09,2024-03-03 05:48:00,2024-03-03 07:09:00,Physical Therapy,North,Schedule revisit in 2 days,0,1
+410,P014,N05,2024-03-03 07:20:00,2024-03-03 10:15:00,General Check-up,West,Patient stable.,0,0
+351,P026,N19,2024-03-03 10:22:00,2024-03-03 13:19:00,Medication Administration,South,No notes,0,0
+109,P037,N19,2024-03-03 16:42:00,2024-03-03 17:48:00,Medication Administration,North,No notes,0,0
+56,P093,N14,2024-03-03 17:48:00,2024-03-03 19:59:00,General Check-up,West,Patient stable.,0,0
+93,P054,N04,2024-03-03 19:26:00,,Wound Care,West,Urgent attention needed,1,0
+223,P055,N06,2024-03-03 20:34:00,2024-03-03 23:29:00,Physical Therapy,East,Urgent attention needed,1,0
+486,P003,N05,2024-03-03 21:27:00,2024-03-03 22:11:00,Physical Therapy,West,Nil,0,0
+445,P057,N20,2024-03-03 22:20:00,2024-03-03 23:33:00,Medication Administration,East,No notes,0,0
+262,P093,N13,2024-03-04 00:24:00,2024-03-04 01:18:00,Physical Therapy,North,Wound will be dressed soon,0,0
+78,P084,N05,2024-03-04 01:08:00,2024-03-04 03:49:00,Wound Care,West,Follow-up urgently required,1,1
+404,P054,N10,2024-03-04 11:29:00,2024-03-04 11:47:00,Physical Therapy,North,Wound will be dressed soon,0,0
+40,P092,N13,2024-03-04 12:15:00,2024-03-04 12:26:00,Wound Care,East,No notes,0,0
+387,P047,N06,2024-03-04 13:13:00,2024-03-04 14:58:00,Physical Therapy,North,Urgent attention needed,1,0
+193,P073,N08,2024-03-04 17:41:00,2024-03-04 19:17:00,General Check-up,West,Urgent attention needed,1,0
+83,P080,N08,2024-03-04 18:09:00,2024-03-04 21:02:00,Medication Administration,North,Urgent attention needed,1,0
+574,P051,N09,2024-03-04 18:24:00,2024-03-04 20:04:00,Medication Administration,South,Patient stable.,0,0
+302,P061,N07,2024-03-05 03:55:00,2024-03-05 06:20:00,Medication Administration,East,No notes,0,0
+11,P093,N09,2024-03-05 05:32:00,2024-03-05 08:22:00,General Check-up,East,No notes,0,0
+36,P093,N10,2024-03-05 09:42:00,2024-03-05 11:35:00,Physical Therapy,West,Nil,0,0
+385,P070,N02,2024-03-05 11:25:00,2024-03-05 12:19:00,Wound Care,West,No notes,0,0
+126,P037,N13,2024-03-05 16:26:00,2024-03-05 17:27:00,Physical Therapy,North,Patient stable.,0,0
+463,P040,N10,2024-03-05 17:20:00,2024-03-05 17:59:00,Wound Care,East,Nil,0,0
+67,P052,N09,2024-03-05 17:31:00,,Physical Therapy,South,Nil,0,0
+123,P038,N04,2024-03-05 17:53:00,,Wound Care,East,Nil,0,0
+366,P026,N17,2024-03-05 21:26:00,2024-03-06 00:11:00,General Check-up,North,Schedule revisit in 2 days,0,1
+202,P089,N03,2024-03-05 23:22:00,2024-03-06 23:22:00,Wound Care,South,Nil,0,0
+71,P099,N13,2024-03-06 00:42:00,2024-03-06 02:50:00,General Check-up,South,Nil,0,0
+154,P021,N16,2024-03-06 14:31:00,,Physical Therapy,West,No notes,0,0
+342,P067,N12,2024-03-06 16:28:00,2024-03-06 17:53:00,General Check-up,South,Schedule revisit in 2 days,0,1
+74,P092,N10,2024-03-06 22:17:00,2024-03-07 00:30:00,General Check-up,West,Schedule revisit in 2 days,0,1
+127,P071,N04,2024-03-07 03:18:00,2024-03-07 03:23:00,Physical Therapy,East,Follow-up urgently required,1,1
+360,P084,N03,2024-03-07 08:24:00,2024-03-07 09:31:00,Wound Care,South,Urgent attention needed,1,0
+394,P047,N19,2024-03-07 14:26:00,2024-03-07 14:41:00,General Check-up,North,Follow-up urgently required,1,1
+517,P082,N09,2024-03-07 14:26:00,2024-03-07 15:20:00,Medication Administration,East,Urgent attention needed,1,0
+35,P056,N01,2024-03-07 17:43:00,2024-03-07 18:43:00,Wound Care,South,Nil,0,0
+119,P057,N17,2024-03-07 19:10:00,2024-03-07 20:32:00,Wound Care,North,No notes,0,0
+530,P089,N11,2024-03-08 01:18:00,2024-03-08 02:37:00,General Check-up,South,Nil,0,0
+113,P076,N13,2024-03-08 02:25:00,2024-03-08 04:01:00,Physical Therapy,South,Schedule revisit in 2 days,0,1
+339,P091,N11,2024-03-08 07:11:00,2024-03-08 09:30:00,Physical Therapy,South,No notes,0,0
+469,P044,N16,2024-03-08 09:49:00,2024-03-08 10:24:00,Physical Therapy,West,Patient stable.,0,0
+307,P067,N20,2024-03-08 10:27:00,2024-03-08 11:11:00,General Check-up,South,No notes,0,0
+163,P085,N16,2024-03-08 12:20:00,2024-03-08 14:27:00,Wound Care,South,Wound will be dressed soon,0,0
+146,P093,N16,2024-03-08 13:49:00,2024-03-08 16:26:00,Wound Care,South,Urgent attention needed,1,0
+171,P083,N18,2024-03-08 15:56:00,2024-03-08 18:15:00,General Check-up,South,No notes,0,0
+416,P085,N16,2024-03-08 19:44:00,2024-03-08 20:06:00,Wound Care,North,No notes,0,0
+328,P064,N01,2024-03-08 23:03:00,2024-03-09 01:03:00,General Check-up,East,Nil,0,0
+343,P099,N18,2024-03-09 00:40:00,2024-03-09 00:45:00,Physical Therapy,South,No notes,0,0
+90,P002,N09,2024-03-09 03:29:00,2024-03-09 04:46:00,Wound Care,South,No notes,0,0
+4,P006,N15,2024-03-09 03:59:00,2024-03-09 06:30:00,Wound Care,West,Follow-up urgently required,1,1
+433,P043,N07,2024-03-09 06:13:00,2024-03-09 07:29:00,Physical Therapy,North,Nil,0,0
+25,P013,N03,2024-03-09 06:32:00,2024-03-09 08:11:00,General Check-up,South,Wound will be dressed soon,0,0
+305,P001,N02,2024-03-09 06:46:00,2024-03-09 06:59:00,General Check-up,North,Patient stable.,0,0
+539,P080,N06,2024-03-09 09:11:00,2024-03-09 12:11:00,Physical Therapy,West,Follow-up urgently required,1,1
+446,P074,N20,2024-03-09 16:41:00,2024-03-09 17:00:00,General Check-up,West,Patient stable.,0,0
+309,P049,N09,2024-03-09 19:03:00,2024-03-09 19:25:00,Medication Administration,North,Follow-up urgently required,1,1
+16,P063,N07,2024-03-10 04:46:00,2024-03-10 07:22:00,General Check-up,West,Nil,0,0
+268,P025,N16,2024-03-10 09:11:00,2024-03-10 09:44:00,General Check-up,North,Schedule revisit in 2 days,0,1
+282,P011,N12,2024-03-10 13:48:00,2024-03-10 16:19:00,Physical Therapy,East,Schedule revisit in 2 days,0,1
+194,P022,N05,2024-03-10 15:11:00,2024-03-10 17:39:00,Medication Administration,North,Follow-up urgently required,1,1
+10,P068,N09,2024-03-11 00:43:00,2024-03-11 03:10:00,Wound Care,South,Wound will be dressed soon,0,0
+64,P031,N06,2024-03-11 02:10:00,2024-03-12 02:10:00,General Check-up,North,Patient stable.,0,0
+458,P009,N14,2024-03-11 02:18:00,2024-03-11 02:59:00,Medication Administration,South,Schedule revisit in 2 days,0,1
+349,P051,N18,2024-03-11 02:19:00,2024-03-11 03:57:00,Physical Therapy,East,No notes,0,0
+381,P044,N03,2024-03-11 05:30:00,2024-03-11 06:35:00,Medication Administration,East,No notes,0,0
+455,P001,N08,2024-03-11 08:39:00,,Physical Therapy,North,No notes,0,0
+60,P006,N02,2024-03-11 09:44:00,2024-03-11 12:37:00,General Check-up,South,Patient stable.,0,0
+293,P061,N19,2024-03-11 11:22:00,2024-03-11 12:38:00,Wound Care,North,Patient stable.,0,0
+42,P065,N14,2024-03-11 14:57:00,2024-03-11 17:08:00,General Check-up,North,Schedule revisit in 2 days,0,1
+226,P073,N16,2024-03-11 16:07:00,2024-03-11 17:25:00,Wound Care,North,Urgent attention needed,1,0
+556,P068,N18,2024-03-11 22:48:00,2024-03-12 00:44:00,Wound Care,South,No notes,0,0
+378,P065,N04,2024-03-12 02:32:00,2024-03-12 03:11:00,Medication Administration,North,Urgent attention needed,1,0
+457,P077,N19,2024-03-12 05:29:00,2024-03-12 07:11:00,Wound Care,North,No notes,0,0
+164,P032,N09,2024-03-12 09:14:00,2024-03-12 10:40:00,General Check-up,West,No notes,0,0
+419,P023,N18,2024-03-12 13:47:00,2024-03-12 16:40:00,General Check-up,East,Follow-up urgently required,1,1
+324,P059,N11,2024-03-12 19:38:00,2024-03-12 22:36:00,General Check-up,South,Follow-up urgently required,1,1
+291,P100,N17,2024-03-13 00:11:00,2024-03-13 01:12:00,General Check-up,North,Urgent attention needed,1,0
+427,P041,N18,2024-03-13 04:20:00,2024-03-13 05:26:00,Physical Therapy,West,Nil,0,0
+198,P052,N15,2024-03-13 07:44:00,2024-03-13 08:14:00,Medication Administration,South,Nil,0,0
+577,P059,N14,2024-03-13 16:57:00,2024-03-13 17:12:00,Medication Administration,South,Nil,0,0
+492,P075,N06,2024-03-14 01:42:00,,General Check-up,South,No notes,0,0
+595,P040,N11,2024-03-14 02:07:00,2024-03-14 04:29:00,Physical Therapy,East,No notes,0,0
+220,P097,N03,2024-03-14 03:51:00,2024-03-14 04:48:00,General Check-up,West,Follow-up urgently required,1,1
+304,P098,N06,2024-03-14 05:31:00,2024-03-14 06:03:00,Physical Therapy,East,Nil,0,0
+132,P046,N08,2024-03-14 13:11:00,2024-03-14 13:42:00,Wound Care,South,Schedule revisit in 2 days,0,1
+313,P012,N04,2024-03-14 21:31:00,2024-03-14 22:04:00,Wound Care,South,Wound will be dressed soon,0,0
+319,P087,N17,2024-03-14 23:36:00,2024-03-15 01:12:00,Wound Care,East,No notes,0,0
+575,P047,N12,2024-03-15 00:48:00,2024-03-15 02:25:00,Physical Therapy,South,No notes,0,0
+552,P034,N06,2024-03-15 01:09:00,2024-03-15 01:53:00,Medication Administration,North,No notes,0,0
+386,P027,N13,2024-03-15 03:20:00,2024-03-15 04:36:00,Medication Administration,West,Wound will be dressed soon,0,0
+255,P096,N03,2024-03-15 03:32:00,2024-03-15 05:22:00,Medication Administration,East,No notes,0,0
+580,P096,N03,2024-03-15 03:37:00,2024-03-15 04:04:00,General Check-up,East,No notes,0,0
+424,P034,N12,2024-03-15 07:14:00,2024-03-15 08:40:00,Physical Therapy,West,Follow-up urgently required,1,1
+537,P043,N14,2024-03-15 10:41:00,2024-03-15 12:14:00,General Check-up,West,Wound will be dressed soon,0,0
+178,P015,N07,2024-03-15 15:05:00,2024-03-15 17:09:00,General Check-up,East,Schedule revisit in 2 days,0,1
+544,P083,N07,2024-03-15 16:14:00,2024-03-15 17:35:00,Wound Care,West,Follow-up urgently required,1,1
+355,P065,N01,2024-03-15 18:25:00,2024-03-15 19:29:00,Medication Administration,West,No notes,0,0
+299,P095,N02,2024-03-15 22:36:00,2024-03-16 00:13:00,General Check-up,West,No notes,0,0
+588,P041,N11,2024-03-15 23:24:00,2024-03-16 00:34:00,General Check-up,East,Follow-up urgently required,1,1
+134,P031,N04,2024-03-15 23:48:00,2024-03-16 00:09:00,Wound Care,East,Urgent attention needed,1,0
+513,P079,N06,2024-03-16 02:52:00,2024-03-16 03:31:00,General Check-up,South,No notes,0,0
+510,P025,N01,2024-03-16 07:31:00,2024-03-16 09:59:00,General Check-up,West,Patient stable.,0,0
+568,P036,N19,2024-03-16 08:48:00,2024-03-16 11:42:00,Wound Care,West,Nil,0,0
+149,P083,N06,2024-03-16 18:09:00,2024-03-16 20:58:00,Wound Care,North,Patient stable.,0,0
+59,P076,N17,2024-03-17 09:06:00,2024-03-17 10:31:00,Physical Therapy,North,Patient stable.,0,0
+221,P068,N11,2024-03-17 12:39:00,2024-03-17 13:18:00,General Check-up,East,Wound will be dressed soon,0,0
+298,P031,N02,2024-03-17 12:42:00,2024-03-17 13:27:00,General Check-up,North,Wound will be dressed soon,0,0
+369,P011,N10,2024-03-17 17:26:00,2024-03-17 17:37:00,Medication Administration,South,Schedule revisit in 2 days,0,1
+240,P032,N18,2024-03-17 19:46:00,2024-03-17 20:02:00,Medication Administration,West,Schedule revisit in 2 days,0,1
+565,P037,N15,2024-03-17 23:19:00,2024-03-18 01:22:00,Physical Therapy,North,Nil,0,0
+347,P088,N10,2024-03-18 02:18:00,2024-03-18 04:20:00,Medication Administration,West,No notes,0,0
+560,P013,N04,2024-03-18 06:37:00,2024-03-18 07:34:00,Medication Administration,South,No notes,0,0
+456,P005,N19,2024-03-18 09:21:00,2024-03-18 09:43:00,Physical Therapy,East,Wound will be dressed soon,0,0
+460,P037,N14,2024-03-18 10:16:00,2024-03-18 13:05:00,Physical Therapy,West,Schedule revisit in 2 days,0,1
+367,P062,N05,2024-03-18 17:52:00,2024-03-19 17:52:00,Wound Care,North,Schedule revisit in 2 days,0,1
+545,P063,N11,2024-03-18 19:32:00,2024-03-18 22:32:00,Physical Therapy,East,No notes,0,0
+323,P001,N03,2024-03-18 19:40:00,2024-03-18 22:00:00,General Check-up,South,No notes,0,0
+6,P088,N03,2024-03-18 20:10:00,2024-03-18 21:22:00,Physical Therapy,North,Schedule revisit in 2 days,0,1
+140,P004,N05,2024-03-18 21:50:00,2024-03-18 22:32:00,Wound Care,South,Nil,0,0
+86,P088,N02,2024-03-18 23:31:00,2024-03-19 00:54:00,General Check-up,South,No notes,0,0
+383,P085,N16,2024-03-19 00:48:00,2024-03-19 01:08:00,Wound Care,South,Urgent attention needed,1,0
+91,P072,N11,2024-03-19 07:41:00,2024-03-20 07:41:00,Medication Administration,East,Follow-up urgently required,1,1
+263,P079,N20,2024-03-19 07:41:00,2024-03-19 09:36:00,General Check-up,North,Follow-up urgently required,1,1
+431,P022,N12,2024-03-19 14:39:00,2024-03-19 15:00:00,General Check-up,West,No notes,0,0
+277,P044,N20,2024-03-19 15:45:00,2024-03-19 15:50:00,Physical Therapy,East,Patient stable.,0,0
+37,P096,N06,2024-03-19 18:19:00,2024-03-19 18:29:00,General Check-up,East,Nil,0,0
+482,P038,N13,2024-03-19 18:28:00,2024-03-19 19:59:00,Medication Administration,East,No notes,0,0
+117,P083,N03,2024-03-19 19:32:00,2024-03-19 22:10:00,Medication Administration,West,Nil,0,0
+26,P091,N10,2024-03-19 20:33:00,2024-03-20 06:33:00,Wound Care,East,Wound will be dressed soon,0,0
+204,P049,N03,2024-03-20 09:51:00,2024-03-20 10:19:00,Physical Therapy,East,No notes,0,0
+534,P038,N15,2024-03-20 11:51:00,2024-03-20 12:17:00,General Check-up,South,Follow-up urgently required,1,1
+598,P007,N13,2024-03-20 13:38:00,2024-03-20 14:10:00,Physical Therapy,South,Patient stable.,0,0
+365,P075,N06,2024-03-20 21:32:00,2024-03-20 23:09:00,Wound Care,West,Nil,0,0
+157,P071,N09,2024-03-20 21:39:00,2024-03-20 22:13:00,Wound Care,South,No notes,0,0
+87,P087,N05,2024-03-21 03:57:00,2024-03-21 04:17:00,General Check-up,North,Nil,0,0
+453,P058,N10,2024-03-21 05:07:00,,Medication Administration,North,Urgent attention needed,1,0
+401,P011,N14,2024-03-21 07:33:00,2024-03-21 10:19:00,Medication Administration,North,Schedule revisit in 2 days,0,1
+228,P045,N20,2024-03-21 13:10:00,2024-03-21 14:12:00,Medication Administration,South,Schedule revisit in 2 days,0,1
+186,P076,N06,2024-03-21 21:27:00,2024-03-21 21:49:00,Physical Therapy,South,Nil,0,0
+80,P049,N11,2024-03-21 22:56:00,,Wound Care,West,Wound will be dressed soon,0,0
+417,P011,N15,2024-03-22 01:23:00,2024-03-22 03:19:00,Medication Administration,North,Schedule revisit in 2 days,0,1
+579,P026,N16,2024-03-22 02:53:00,2024-03-22 03:57:00,Medication Administration,North,Nil,0,0
+501,P028,N20,2024-03-22 03:45:00,2024-03-22 04:17:00,Physical Therapy,East,Nil,0,0
+325,P044,N12,2024-03-22 09:35:00,,Physical Therapy,West,No notes,0,0
+421,P048,N14,2024-03-22 13:52:00,2024-03-22 16:37:00,General Check-up,East,Schedule revisit in 2 days,0,1
+413,P059,N01,2024-03-22 16:24:00,2024-03-22 16:38:00,Wound Care,West,No notes,0,0
+147,P017,N18,2024-03-22 18:11:00,2024-03-22 18:54:00,Medication Administration,South,Schedule revisit in 2 days,0,1
+591,P050,N10,2024-03-22 22:23:00,2024-03-22 23:04:00,General Check-up,West,Nil,0,0
+336,P057,N08,2024-03-22 22:45:00,2024-03-23 01:25:00,General Check-up,West,Wound will be dressed soon,0,0
+585,P056,N14,2024-03-23 01:12:00,,Medication Administration,East,Patient stable.,0,0
+241,P051,N10,2024-03-23 01:50:00,2024-03-23 03:01:00,Wound Care,West,Urgent attention needed,1,0
+344,P095,N14,2024-03-23 02:47:00,2024-03-23 03:03:00,Wound Care,North,Follow-up urgently required,1,1
+354,P014,N06,2024-03-23 19:05:00,2024-03-23 19:50:00,General Check-up,North,Follow-up urgently required,1,1
+542,P065,N11,2024-03-23 22:18:00,2024-03-23 23:42:00,Physical Therapy,West,No notes,0,0
+498,P056,N20,2024-03-24 08:21:00,2024-03-24 08:56:00,Physical Therapy,West,No notes,0,0
+372,P051,N05,2024-03-25 03:47:00,2024-03-25 04:38:00,Physical Therapy,South,Schedule revisit in 2 days,0,1
+452,P043,N19,2024-03-25 04:10:00,2024-03-25 05:05:00,Medication Administration,East,Wound will be dressed soon,0,0
+95,P059,N03,2024-03-25 06:41:00,2024-03-25 06:56:00,Wound Care,West,No notes,0,0
+364,P073,N01,2024-03-25 09:05:00,2024-03-25 11:50:00,General Check-up,East,No notes,0,0
+571,P026,N10,2024-03-25 15:31:00,2024-03-25 17:59:00,Medication Administration,North,Nil,0,0
+329,P014,N13,2024-03-25 19:38:00,2024-03-25 21:57:00,Physical Therapy,West,Wound will be dressed soon,0,0
+331,P088,N12,2024-03-27 04:45:00,2024-03-27 05:40:00,Wound Care,South,No notes,0,0
+600,P028,N10,2024-03-27 06:26:00,,Medication Administration,West,Nil,0,0
+38,P057,N15,2024-03-27 06:32:00,2024-03-27 07:25:00,Medication Administration,South,Follow-up urgently required,1,1
+179,P072,N15,2024-03-27 09:46:00,2024-03-27 19:46:00,General Check-up,South,Patient stable.,0,0
+531,P008,N17,2024-03-27 11:56:00,2024-03-28 11:56:00,Medication Administration,South,No notes,0,0
+543,P006,N05,2024-03-27 17:07:00,2024-03-27 18:59:00,General Check-up,West,No notes,0,0
+68,P012,N08,2024-03-27 18:37:00,2024-03-27 19:55:00,Physical Therapy,West,Schedule revisit in 2 days,0,1
+332,P086,N14,2024-03-27 23:57:00,2024-03-28 01:20:00,Physical Therapy,North,Schedule revisit in 2 days,0,1
+440,P075,N18,2024-03-28 06:55:00,2024-03-28 09:19:00,Physical Therapy,East,Nil,0,0
+583,P031,N05,2024-03-28 09:54:00,2024-03-28 11:25:00,Wound Care,West,Nil,0,0
+151,P062,N08,2024-03-28 12:19:00,2024-03-28 12:44:00,Physical Therapy,West,Urgent attention needed,1,0
+175,P021,N13,2024-03-28 16:59:00,2024-03-28 18:28:00,Medication Administration,South,Nil,0,0
+584,P021,N09,2024-03-28 19:15:00,2024-03-28 19:54:00,Medication Administration,West,Wound will be dressed soon,0,0
+490,P086,N03,2024-03-28 20:34:00,2024-03-28 22:03:00,Wound Care,North,Urgent attention needed,1,0
+558,P029,N05,2024-03-29 04:44:00,2024-03-29 05:26:00,Wound Care,East,Follow-up urgently required,1,1
+14,P028,N18,2024-03-29 06:45:00,2024-03-29 09:41:00,General Check-up,South,No notes,0,0
+423,P041,N01,2024-03-29 08:58:00,2024-03-29 11:30:00,Physical Therapy,South,Patient stable.,0,0
+443,P046,N03,2024-03-29 15:08:00,2024-03-29 17:52:00,Wound Care,East,Nil,0,0
+70,P043,N14,2024-03-29 15:18:00,2024-03-29 17:10:00,Medication Administration,West,Follow-up urgently required,1,1
+352,P079,N10,2024-03-29 18:09:00,2024-03-29 19:52:00,Physical Therapy,East,Patient stable.,0,0
+124,P021,N06,2024-03-29 19:51:00,,Wound Care,West,Urgent attention needed,1,0
+425,P023,N16,2024-03-29 22:36:00,2024-03-29 23:10:00,Medication Administration,North,Nil,0,0
+230,P084,N05,2024-03-30 04:15:00,2024-03-30 05:47:00,Physical Therapy,West,No notes,0,0
+199,P008,N01,2024-03-30 05:05:00,2024-03-30 07:06:00,Wound Care,South,Schedule revisit in 2 days,0,1
+449,P024,N19,2024-03-30 17:08:00,2024-03-30 18:40:00,Physical Therapy,West,Nil,0,0
+278,P025,N14,2024-03-30 17:46:00,2024-03-30 20:14:00,Medication Administration,North,No notes,0,0
+256,P041,N13,2024-03-30 23:20:00,2024-03-31 00:39:00,General Check-up,East,Nil,0,0
+338,P043,N15,2024-03-31 04:02:00,2024-03-31 05:34:00,Medication Administration,West,Nil,0,0
+532,P009,N18,2024-03-31 06:08:00,2024-03-31 07:19:00,General Check-up,West,No notes,0,0
+467,P097,N10,2024-03-31 10:45:00,2024-04-01 10:45:00,General Check-up,South,Urgent attention needed,1,0
+177,P058,N17,2024-03-31 11:04:00,2024-03-31 11:42:00,General Check-up,East,No notes,0,0
+451,P011,N17,2024-03-31 12:46:00,2024-03-31 15:06:00,Physical Therapy,East,Schedule revisit in 2 days,0,1
+270,P010,N12,2024-03-31 21:25:00,2024-03-31 23:01:00,Physical Therapy,East,Nil,0,0
