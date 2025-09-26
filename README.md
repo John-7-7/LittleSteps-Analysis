@@ -17,7 +17,7 @@ Littlesteps-Analysis/
 │── README.md # Project documentation
 
 \## Setup Instructions
-git clone https://github.com/yourusername/patient-visits-analysis.git
+git clone https://github.com/yourusername/LittleSteps-Analysis.git
 cd LittleSteps-Analysis
 
 bash
